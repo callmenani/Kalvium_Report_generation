@@ -2,7 +2,7 @@
 
 * Used BEAUTIFUL SOUP for web scraping.
 * Derived and visualized insights using  modules like **pandas,seaborn,matplotlib etc**.
-* In final report i've used **power bi** to create a insightful dashboard
+* In final report i've used **POWER BI** to create a insightful dashboard
 
 ## POWER BI dashboard on loksabha elections
 **This dashboard includes comparisons of top parties and also analysis on 2019 and 2024 election data.** 
