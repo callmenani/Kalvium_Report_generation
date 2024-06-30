@@ -1,7 +1,7 @@
 # Kalvium_Report_generation
 
 * Used BEAUTIFUL SOUP for web scraping.
-* Derived and visualized insights using  modules like **pandas,seaborn,matplotlib etc**.
+* Derived and visualized insights using tools like **pandas,seaborn,matplotlib etc**.
 * In final report i've used **POWER BI** to create a insightful dashboard
 
 ## POWER BI dashboard on loksabha elections
